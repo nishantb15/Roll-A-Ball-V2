@@ -1,4 +1,4 @@
-Link: https://nishantb15.github.io/Roll-A-Ball-V2/
+Link: (https://nishantb15.github.io/Roll-A-Ball-V2/)[]
 
 My first cool new feature is a jail area (green and black jail-like structure) where the player needs to collect a green cube in order to open the green door. Inside the jail are Pickups needed to win the game. I made the cube and the door the same color so as to avoid confusion.
 
